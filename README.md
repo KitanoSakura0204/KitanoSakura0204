@@ -5,6 +5,7 @@
 ### 𝑭𝒐𝒍𝒍𝒐𝒘 𝒘𝒉𝒂𝒕 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕.
 
 *For meaningless matters, I will prioritize following what I want to do, the highest priority.*
+
 *やりたいこと最・優・先！*
 
 [![Website](https://img.shields.io/badge/Website-141E30?style=flat-square&logo=googlechrome&logoColor=white)](https://ktnsakura.top)
