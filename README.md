@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:493B65,100:B47E9B&height=180&section=header&text=Kitano%20Sakura&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Technology%20Explorer&descAlignY=60&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:493B65,100:B47E9B&height=180&section=header&text=KitanoSakura&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Technology%20Explorer&descAlignY=60&descSize=14" width="100%" />
 
 ### 𝑭𝒐𝒍𝒍𝒐𝒘 𝒘𝒉𝒂𝒕 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕.
 
@@ -18,16 +18,12 @@
 
 Independent developer interested in software engineering, reverse engineering and AI.
 
-- Rust · Java · Python
+- C# · Java · Python · Go · Vue
 - Linux · Networking · Infrastructure
 - Reverse Engineering · IL2CPP
 - AI Agents · Artificial Intelligence
 - Blockchain · Cryptography
 
-### Projects & Exploration
-
-- **HNA-MORAX** — Game data analysis and reverse engineering.
-- **AI Research** — Autonomous agents and persistent memory systems.
 
 ### GitHub
 
