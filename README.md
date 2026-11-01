@@ -29,13 +29,11 @@ Independent developer interested in software engineering, reverse engineering an
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=KitanoSakura0204&show_icons=true&theme=transparent&hide_border=true&title_color=B48EAD&icon_color=B48EAD&text_color=AAAAAA" />
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=KitanoSakura0204&show_icons=true&theme=transparent&hide_border=true&title_color=B48EAD&icon_color=B48EAD&text_color=AAAAAA" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitanoSakura0204&layout=compact&theme=transparent&hide_border=true&title_color=B48EAD&text_color=AAAAAA" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KitanoSakura0204&layout=compact&theme=transparent&hide_border=true&title_color=B48EAD&text_color=AAAAAA" />
 
 </div>
-
-<div align="center">
 
 *𝑺𝒕𝒂𝒚 𝒄𝒖𝒓𝒊𝒐𝒖𝒔. 𝑲𝒆𝒆𝒑 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈.* 
 
